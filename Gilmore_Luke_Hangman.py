@@ -56,4 +56,4 @@ while number_of_guesses < 8: #The code will loop until 7 guesses have been made
                     print("your word was",hangman_word) #Tell the player what their word is
                     print("You lose")
                     
-                    break    #End the game 
+                    break    #Ends the game 
